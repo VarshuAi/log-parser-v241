@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (RUST).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/log-parser-v241.git
+git clone https://github.com/VarshuAi/log-parser-v241.git
 cd log-parser-v241
 ```
 Run the master script or compile the executable entry point.
