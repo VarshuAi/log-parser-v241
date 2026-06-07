@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Parses and highlights warning/error flags in server logs. [Variant 241 using RUST with Cyberpunk theme]
+  name: log-parser-v241 version: 1.0 type: Repository author: VarshuAi description: >   Parses and highlights warning/error flags in server logs. [Variant 241 using RUST with Cyberpunk theme] primary_tech: Rust
 primary_tech: Rust
 ```
 
